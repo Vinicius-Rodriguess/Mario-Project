@@ -136,5 +136,14 @@ body {
     visibility: visible;
 }
 
+.mario:hover{
+    transform: scale(1.01)
+}
 
+.imagem-titulo:hover{
+    transform: scale(1.01);
+}
 
+.descricao:hover{
+    transform: scale(1.01);
+}
